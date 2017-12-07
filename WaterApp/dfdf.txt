@@ -1,0 +1,107 @@
+Usuario
+1
+1
+1
+1
+Usuario
+3
+﻿2
+2
+2
+Associaçao Usuario e Casa
+1
+1
+Associaçao Usuario e Casa
+1
+2
+Associaçao Usuario e Casa
+3
+2
+Casa
+1
+1
+1
+1
+1
+1
+1
+1
+1
+Casa
+2
+2
+2
+2
+2
+2
+2
+2
+2
+Casa
+4
+2
+2
+2
+2
+2
+2
+2
+2
+Pessoas
+1
+1
+Pessoas
+2
+2
+Pessoas
+3
+3
+Atividades Diarias
+1
+1
+1
+1
+1.0
+Atividades Diarias
+2
+2
+2
+2
+2.0
+Atividades Diarias
+3
+3
+3
+3
+3.0
+Associaçao entre Casa e Objetos
+1
+1
+Associaçao entre Casa e Objetos
+1
+2
+Associaçao entre Casa e Objetos
+2
+3
+Objetos de Consumo
+1
+1
+1.0
+Objetos de Consumo
+2
+2
+2.0
+Objetos de Consumo
+3
+3
+3.0
+Associaçao entre Casa e Conta
+1
+1
+Associaçao entre Casa e Conta
+2
+1
+Conta Agua
+1
+1.0
+0.0
